@@ -5,7 +5,7 @@ This repository contains the code of the final project of the Database Managemen
 The aim of the project was the implementation of the BANKS (Browsing ANd Keyword Searching) algorithm originally described in the following paper: 
 Bhalotia, G., Hulgeri, A., Nakhe, C., Chakrabarti, S., and Sudarshan, S. (2002). Keyword Searching and Browsing in Databases using BANKS. In Agrawal, R., Dittrich, K., and Ngu, A. H. H., editors, *Proc. 18th International Conference on Data Engineering (ICDE 2002)*, pages 431-440. IEEE Computer Society, Los Alamitos, CA, USA.
 
-The paper describe a technique for keyword searching and browsing on databases using natural language query.
+The paper describes a technique for keyword searching and browsing on databases using natural language query.
 In particular it uses a graph based approach to represent the database and a backward expanding search to find the result of the query.
 
 This project is copyright of Andrea Tonon and it licensed under the BSD 3-Clause license, as also described in the file [license.txt](license.txt).
